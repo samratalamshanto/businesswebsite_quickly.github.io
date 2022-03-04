@@ -1,0 +1,141 @@
+* {
+  margin: 0;
+}
+body {
+  width: 1440px;
+  height: 4921px;
+  background: #fafafa;
+  position: relative;
+  padding: 0;
+}
+
+.navbar {
+  background: #20484f;
+  width: 1440px;
+  height: 75px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+}
+
+.logo-name {
+  font-family: "Plus Jakarta Sans";
+  font-size: 24px;
+  height: 30px;
+  width: 99px;
+  font-weight: bold;
+  color: #ffffff;
+  position: absolute;
+  left: 40px;
+}
+.navbar a {
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 16px;
+  font-style: none;
+}
+
+.menu-bar {
+  width: 435px;
+  height: 24px;
+  position: absolute;
+  display: flex;
+  justify-content: space-around;
+  left: 476px;
+  top: 25px;
+  color: #ffffff;
+}
+.login-bar button {
+  color: #ffffff;
+}
+
+.singup {
+  background-color: #b8e4da;
+  position: absolute;
+  border: none;
+  font-size: 16px;
+  width: 82px;
+  height: 41px;
+  border-radius: 8px;
+}
+.login {
+  background-color: #20484f;
+  position: absolute;
+  border: none;
+  font-size: 16px;
+  width: 82px;
+  height: 41px;
+  left: 82px;
+  color: #ffffff;
+}
+
+.login-bar {
+  width: 72px;
+  height: 41px;
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  left: 1200px;
+  top: 0px;
+}
+
+.top-body-footer{
+  width: 100%;
+  height: 211px;
+  top: 885px;
+  position: static;
+  background-color: #fafafa;
+  display: flex;
+  flex-direction: column;
+}
+.top-body-footer-up
+{ left: 421px;
+  top: 41px;
+  position: relative;
+  
+
+}
+.top-body-footer-up p{
+  font-size: 24px;
+  color: #20484F;
+}
+.top-body-footer-down
+{
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  width: 900px;
+  left: 200px;
+  top:-30px;
+  justify-items: center;
+  justify-content: space-around;
+}
+.topbody-footer-social-icon1{
+  top: 121.72px;
+  position: relative;
+
+}
+.topbody-footer-social-icon2{
+  top: 124.87px;
+  position: relative;
+}
+.topbody-footer-social-icon2 p{
+  color: #20484F;
+  font-size: 18px;
+}
+.topbody-footer-social-icon3{
+  top: 121.04px;
+  position: relative;
+
+}
+.topbody-footer-social-icon4{
+  top: 119.01px;
+  position: relative;
+
+}
+.topbody-footer-social-icon4 p{
+  color: #20484F;
+  font-size: 26px;
+  font-weight: bold;
+}

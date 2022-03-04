@@ -1,0 +1,238 @@
+.bottom-body1 {
+  width: 100%;
+  height: 753px;
+  position: static;
+  background-color: #fafafa;
+}
+.bottom-body1-up {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+}
+
+.bottom-body1-up-left {
+}
+.bottom-body1-up-left p {
+  color: #072125;
+  font-size: 32px;
+  font-weight: 700;
+  position: relative;
+  top: 71px;
+  left: 120px;
+}
+.bottom-body1-up-left h3 {
+  color: #072125;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+  top: 127px;
+  left: 120px;
+}
+.bottom-body1-up-right button {
+  width: 190px;
+  height: 58px;
+  position: absolute;
+  top: 93px;
+  left: 1130px;
+  background-color: #20484f;
+  border-radius: 8px;
+  padding: 16px 36px 15px 36px;
+  color: white;
+  font-size: 18px;
+  font-weight: 400;
+}
+.bottom-body1-down {
+  position: static;
+  display: flex;
+  flex-direction: row;
+}
+.bottom-body1-down-block1 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 387px;
+  height: 450px;
+  top: 180px;
+  left: 120px;
+  border-radius: 24px;
+  background-color: #ffffff;
+}
+
+.bottom-body1-dowm-block1-sub-img {
+  position: absolute;
+  top: 37px;
+  left: 44px;
+}
+.bottom-body1-dowm-block1-text p {
+  color: #072125;
+  position: absolute;
+  top: 99px;
+  font-size: 24px;
+  font-weight: normal;
+  left: calc(50% - 289px / 2 - 5px);
+}
+.bottom-body1-dowm-block1-text h1 {
+  position: absolute;
+  width: 110px;
+  height: 23px;
+  left: 36px;
+  bottom: 62px;
+  font-weight: bold;
+  font-size: 18px;
+  color: #072125;
+}
+.bottom-body1-dowm-block1-text h3 {
+  font-weight: normal;
+  font-size: 14px;
+  color: #072125;
+  height: 21px;
+  left: 36px;
+  bottom: 33px;
+  position: absolute;
+}
+
+
+.bottom-body1-down-block1 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 387px;
+  height: 450px;
+  top: 180px;
+  left: 150px;
+  border-radius: 24px;
+  background-color: #ffffff;
+  margin-right: 20px;
+}
+
+.bottom-body1-dowm-block1-sub-img {
+  position: absolute;
+  top: 37px;
+  left: 44px;
+}
+.bottom-body1-dowm-block1-text p {
+  color: #072125;
+  position: absolute;
+  top: 99px;
+  font-size: 24px;
+  font-weight: normal;
+  left: calc(50% - 289px / 2 - 5px);
+}
+.bottom-body1-dowm-block1-text h1 {
+  position: absolute;
+  width: 110px;
+  height: 23px;
+  left: 36px;
+  bottom: 62px;
+  font-weight: bold;
+  font-size: 18px;
+  color: #072125;
+}
+.bottom-body1-dowm-block1-text h3 {
+  font-weight: normal;
+  font-size: 14px;
+  color: #072125;
+  height: 21px;
+  left: 36px;
+  bottom: 33px;
+  position: absolute;
+}
+
+
+
+
+
+  .bottom-body1-down-block3 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 387px;
+    height: 450px;
+    top: 180px;
+    left: 150px;
+    border-radius: 24px;
+    background-color: #ffffff;
+  }
+  
+  .bottom-body1-dowm-block3-sub-img {
+    position: absolute;
+    top: 37px;
+    left: 44px;
+  }
+  .bottom-body1-dowm-block3-text p {
+    color: #072125;
+    position: absolute;
+    top: 99px;
+    font-size: 24px;
+    font-weight: normal;
+    left: calc(50% - 289px / 2 - 5px);
+  }
+  .bottom-body1-dowm-block3-text h1 {
+    position: absolute;
+    width: 148px;
+    height: 23px;
+    left: 36px;
+    bottom: 62px;
+    font-weight: bold;
+    font-size: 18px;
+    color: #072125;
+  }
+  .bottom-body1-dowm-block3-text h3 {
+    font-weight: normal;
+    font-size: 14px;
+    color: #072125;
+    height: 21px;
+    left: 36px;
+    bottom: 33px;
+    position: absolute;
+  }
+
+
+  
+  .bottom-body1-down-block2 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 387px;
+    height: 450px;
+    top: 180px;
+    left: 150px;
+    border-radius: 24px;
+    background-color: #ffffff;
+    margin-right: 20px;
+  }
+  
+  .bottom-body1-dowm-block2-sub-img {
+    position: absolute;
+    top: 37px;
+    left: 44px;
+  }
+  .bottom-body1-dowm-block2-text p {
+    color: #072125;
+    position: absolute;
+    top: 99px;
+    font-size: 24px;
+    font-weight: normal;
+    left: calc(50% - 289px / 2 - 5px);
+  }
+  .bottom-body1-dowm-block2-text h1 {
+    position: absolute;
+    width: 168px;
+    height: 23px;
+    left: 36px;
+    bottom: 62px;
+    font-weight: bold;
+    font-size: 18px;
+    color: #072125;
+    line-height: 22.68px;
+
+  }
+  .bottom-body1-dowm-block2-text h3 {
+    font-weight: normal;
+    font-size: 14px;
+    color: #072125;
+    height: 21px;
+    left: 36px;
+    bottom: 33px;
+    position: absolute;
+  }

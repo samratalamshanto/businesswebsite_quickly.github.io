@@ -1,0 +1,237 @@
+.bodytop-hero {
+  width: 1440px;
+  height: 810px;
+  background-color: #fafafa;
+  top: 0px;
+  display: flex;
+  justify-content: center;
+}
+
+.bodytop-left {
+  width: 557px;
+  height: 154px;
+  left: 139px;
+  position: absolute;
+  top: 217px;
+}
+
+.bodytop-left h5 {
+  font-size: 18px;
+  color: #20484f;
+  padding-bottom: 24px;
+}
+.bodytop-left p {
+  font-size: 64px;
+  color: #072125;
+  font-family: "Plus Jakarta Sans";
+  padding-bottom: 32px;
+}
+.bodytop-left img {
+  width: 412px;
+  height: 233px;
+  left: 170px;
+  top: 51px;
+  position: absolute;
+  mix-blend-mode: normal;
+}
+.bodytop-left h3 {
+  font-size: 24px;
+  color: #072125;
+  font-family: "Plus Jakarta Sans";
+  padding-bottom: 48px;
+}
+.loginbodytop {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 16px 36px 15px;
+}
+.loginbodytop button {
+  width: 136px;
+  height: 58px;
+}
+.signup-bodytop {
+  width: 136px;
+  height: 58px;
+  color: #ffffff;
+  left: 139px;
+  top: 570px;
+  background-color: #20484f;
+  border-radius: 8px;
+  margin-right: 20px;
+}
+.learnmore-bodytop {
+  width: 168px;
+  height: 58px;
+  background-color: #ffffff;
+  box-sizing: border-box;
+  border-radius: 8px;
+  border: 1px solid rgba(32, 72, 79, 0.1);
+}
+
+.side-hero-image {
+  width: 541px;
+  height: 601px;
+  top: 80px;
+  left: 805px;
+  position: absolute;
+}
+.hero-main-image {
+  width: 415px;
+  height: 490px;
+  top: 125px;
+  left: 875px;
+  border-radius: 12px;
+}
+
+.hero-main-image img {
+  top: 50px;
+  left: 70px;
+  position: absolute;
+}
+.hero-newtask-img {
+  width: 389px;
+  height: 107px;
+  background-color: white;
+  border-radius: 12px;
+  box-shadow: 0px 4px 40px rgba(138, 138, 138, 0.04);
+  position: absolute;
+  top: 90px;
+  right: -90px;
+  margin-right: 28px;
+}
+
+.img-avatar img {
+  position: absolute;
+  align-items: center;
+  width: 63px;
+  height: 63px;
+  left: 15px;
+  top: 15px;
+}
+
+.hero-newtask-img p {
+  position: absolute;
+  width: 218px;
+  height: 30px;
+  left: 100px;
+  top: 20px;
+
+  /* H4 */
+
+  font-family: Plus Jakarta Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 30px;
+
+  /* Dark */
+
+  color: #072125;
+}
+.hero-newtask-img h3 {
+  position: absolute;
+  width: 224px;
+  height: 24px;
+  left: 100px;
+  top: 57px;
+
+  /* Body/Medium */
+
+  font-family: Plus Jakarta Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 150%;
+  /* identical to box height, or 24px */
+
+  /* Dark Green */
+
+  color: #20484f;
+}
+
+.body-img22 {
+  position: relative;
+  top: 0opx;
+}
+
+.body-img22 img {
+  position: relative;
+  top: 400px;
+  left: 300px;
+}
+
+.body-img22-circle {
+  position: absolute;
+  width: 64px;
+  height: 64px;
+  top: 470px;
+  left: 350px;
+
+  background-color: #dcf2ed;
+  border-radius: 50%;
+}
+
+.tick-icon {
+  position: absolute;
+  width: 64px;
+  height: 64px;
+  top: 85px;
+  left: 66px;
+}
+.hr1-project-updated {
+  position: absolute;
+  width: 260px;
+  height: 11px;
+  top: 480px;
+  left: 430px;
+
+
+  /* Border */
+
+  background: rgba(32, 72, 79, 0.1);
+  border-radius: 12px;
+}
+.hr2-project-updated {
+  position: absolute;
+  width: 182px;
+  height: 11px;
+  top: 500px;
+  left: 430px;
+
+
+  /* Border */
+
+  background: rgba(32, 72, 79, 0.1);
+  border-radius: 12px;
+}
+.body-img22 p {
+  position: absolute;
+  top: 450px;
+  left: 430px;
+  width: 198px;
+  height: 30px;
+  font-size: 24px;
+  font-weight: 700;
+  color: #20484f;
+}
+
+.body-img22 button {
+  position: absolute;
+  top: 520px;
+  left: 430px;
+  width: 110px;
+  height: 37px;
+  border-radius: 8px;
+
+  background-color: #b8e4da;
+}
+
+.avatar-border {
+  width: 73px;
+  height: 73px;
+  border: 6px solid #b8e4da;
+  box-sizing: border-box;
+  border-radius: 35%;
+}
