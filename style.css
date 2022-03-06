@@ -80,7 +80,7 @@ body {
   top: 0px;
 }
 
-.top-body-footer{
+.top-body-footer {
   width: 100%;
   height: 211px;
   top: 885px;
@@ -89,53 +89,51 @@ body {
   display: flex;
   flex-direction: column;
 }
-.top-body-footer-up
-{ left: 421px;
+.top-body-footer-up {
+  left: 421px;
   top: 41px;
+  width: 599px;
+height: 36px;
   position: relative;
-  
-
 }
-.top-body-footer-up p{
+.top-body-footer-up p {
+  width: 599px;
+  height: 36px;
   font-size: 24px;
-  color: #20484F;
+  color: #20484f;
 }
-.top-body-footer-down
-{
+.top-body-footer-down {
   display: flex;
   flex-direction: row;
   position: relative;
   width: 900px;
   left: 200px;
-  top:-30px;
+  top: -30px;
   justify-items: center;
   justify-content: space-around;
 }
-.topbody-footer-social-icon1{
+.topbody-footer-social-icon1 {
   top: 121.72px;
   position: relative;
-
 }
-.topbody-footer-social-icon2{
+.topbody-footer-social-icon2 {
   top: 124.87px;
   position: relative;
 }
-.topbody-footer-social-icon2 p{
-  color: #20484F;
+.topbody-footer-social-icon2 p {
+  color: #20484f;
   font-size: 18px;
 }
-.topbody-footer-social-icon3{
+.topbody-footer-social-icon3 {
   top: 121.04px;
   position: relative;
-
 }
-.topbody-footer-social-icon4{
+.topbody-footer-social-icon4 {
   top: 119.01px;
   position: relative;
-
 }
-.topbody-footer-social-icon4 p{
-  color: #20484F;
+.topbody-footer-social-icon4 p {
+  color: #20484f;
   font-size: 26px;
   font-weight: bold;
 }
